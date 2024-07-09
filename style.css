@@ -1,0 +1,19 @@
+table{
+    width: 100%;
+    background-color: black;
+    height: 400px;
+
+
+
+}
+
+tr{
+    background-color: green;
+    border: 1px solid ;
+
+}
+
+td{
+    color: rgb(0, 238, 255);
+    border: 1px solid;
+}
